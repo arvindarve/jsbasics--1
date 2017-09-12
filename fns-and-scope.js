@@ -80,7 +80,7 @@ var name = 'Tyler';
   function myName(){
     return "Arvee";
   }
-  myName();
+  
 
 //Now save the function definition of myName into a new variable called newMyName
 

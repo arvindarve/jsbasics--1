@@ -39,6 +39,7 @@ var name = 'Tyler';
 function welcome(){
   alert("welcome, " + getName());
 }
+welcome();
 
 //////////////////PROBLEM 4////////////////////
 

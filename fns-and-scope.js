@@ -21,11 +21,11 @@ var name = 'Tyler';
 
   //Code Here
   
-  // function getName(){
-  //   var name = prompt("whats your name");
-  //   return name;
-  // }
-  // getName();
+  function getName(){
+    var name = prompt("whats your name");
+    return name;
+  }
+  getName();
 
 
 //////////////////PROBLEM 3////////////////////
@@ -35,10 +35,10 @@ var name = 'Tyler';
 //Create a function called welcome that uses your getName function you created in the previous problem to get the users name,
 //then alerts "Welcome, " plus whatever the users name is.
 
-  // //Code Here
-  // function welcome() {
-  //   alert("Welcome, " + getName());
-  // }
+  //Code Here
+  function welcome() {
+    alert("Welcome, " + getName());
+  }
 
 //////////////////PROBLEM 4////////////////////
 

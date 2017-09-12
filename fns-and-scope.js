@@ -20,6 +20,11 @@ var name = 'Tyler';
 
 
   //Code Here
+  var promptName = prompt("whats your name");
+  function getName(promptName){
+    return promptName;
+  }
+  getName(promptName);
 
 
 //////////////////PROBLEM 3////////////////////

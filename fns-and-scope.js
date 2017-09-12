@@ -37,7 +37,7 @@ var name = 'Tyler';
 
   //Code Here
 function welcome(){
-  alert("welcome, " + getName());
+  alert("Welcome, " + getName());
 }
 welcome();
 

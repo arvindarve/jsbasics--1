@@ -49,6 +49,8 @@ welcome();
 //What is the difference between arguments and parameters?
 
   //Answer Here
+  parameters are like variables it is written near the function defintion.
+  arguments are the alias values to the parameters.it is passed during the function call or invocation.
 
 
 //////////////////PROBLEM 5////////////////////

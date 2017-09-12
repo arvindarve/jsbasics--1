@@ -5,6 +5,11 @@ var name = 'Tyler';
 //If the argument you passed in is equal to 'Tyler', return true. If it's not, return false.
 
   //Code Here
+  function isTyler(name){
+
+  }
+ if(isTyler(name) == "Tyler");
+  
 
 //////////////////PROBLEM 2////////////////////
 

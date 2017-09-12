@@ -48,8 +48,7 @@ var name = 'Tyler';
 //What is the difference between arguments and parameters?
 
   //Answer Here
-  parameters are like variables it is written near the function defintion.
-  arguments are the alias values to the parameters.it is passed during the function call or invocation.
+  Parameters are between the parentheses on the function. Arguments replace the parameters when callin the function.
 
 
 //////////////////PROBLEM 5////////////////////

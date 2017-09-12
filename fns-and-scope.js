@@ -48,7 +48,7 @@ var name = 'Tyler';
 //What is the difference between arguments and parameters?
 
   //Answer Here
-  // Parameters are between the parentheses on the function. Arguments replace the parameters when callin the function.
+   Parameters are between the parentheses on the function. Arguments replace the parameters when callin the function.
 
 
 //////////////////PROBLEM 5////////////////////
@@ -59,6 +59,14 @@ var name = 'Tyler';
 
 
   //Answer Here
+  null
+  0
+  undefined
+  ""
+  false
+  NaN
+
+  comparing using comparison operator
 
 
 
@@ -69,8 +77,10 @@ var name = 'Tyler';
 //Create a function called myName that returns your name
 
   //Code Here
-  
-
+  function myName(){
+    return "Arvee";
+  }
+  myName();
 
 //Now save the function definition of myName into a new variable called newMyName
 

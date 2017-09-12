@@ -39,7 +39,7 @@ var name = 'Tyler';
 function welcome(){
   alert("Welcome, " + getName());
 }
-welcome();
+
 
 //////////////////PROBLEM 4////////////////////
 
